@@ -1,4 +1,4 @@
-# Introduction
+# Project Overview
 
 Dispersion is a characteristic feature of certain types of partial differential equations, and the behavior of their solution profiles can vary significantly depending on the algebraic properties of time. In particular, when considering square wave initial data and time that is a rational multiple of the period, the solution takes on a piecewise step-like form.
 
